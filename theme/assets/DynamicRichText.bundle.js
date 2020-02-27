@@ -4,7 +4,7 @@
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RichText; });
+/* harmony test export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RichText; });
 /* harmony import */ var fitvids__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(28);
 /* harmony import */ var fitvids__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(fitvids__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var grouped_content__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(29);
